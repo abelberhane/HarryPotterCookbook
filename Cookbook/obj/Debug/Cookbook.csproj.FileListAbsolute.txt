@@ -1,0 +1,22 @@
+c:\users\abel\documents\visual studio 2017\Projects\Cookbook\Cookbook\bin\Debug\Cookbook.mdf
+c:\users\abel\documents\visual studio 2017\Projects\Cookbook\Cookbook\bin\Debug\Cookbook_log.ldf
+c:\users\abel\documents\visual studio 2017\Projects\Cookbook\Cookbook\bin\Debug\Cookbook.exe.config
+c:\users\abel\documents\visual studio 2017\Projects\Cookbook\Cookbook\bin\Debug\Cookbook.exe
+c:\users\abel\documents\visual studio 2017\Projects\Cookbook\Cookbook\bin\Debug\Cookbook.pdb
+c:\users\abel\documents\visual studio 2017\Projects\Cookbook\Cookbook\obj\Debug\Cookbook.csprojResolveAssemblyReference.cache
+c:\users\abel\documents\visual studio 2017\Projects\Cookbook\Cookbook\obj\Debug\Cookbook.Properties.Resources.resources
+c:\users\abel\documents\visual studio 2017\Projects\Cookbook\Cookbook\obj\Debug\Cookbook.csproj.GenerateResource.Cache
+c:\users\abel\documents\visual studio 2017\Projects\Cookbook\Cookbook\obj\Debug\Cookbook.exe
+c:\users\abel\documents\visual studio 2017\Projects\Cookbook\Cookbook\obj\Debug\Cookbook.pdb
+c:\users\abel\documents\visual studio 2017\Projects\Cookbook\Cookbook\obj\Debug\Cookbook.frmMain.resources
+C:\Users\Abel\Desktop\Cookbook\Cookbook\bin\Debug\Cookbook.mdf
+C:\Users\Abel\Desktop\Cookbook\Cookbook\bin\Debug\Cookbook_log.ldf
+C:\Users\Abel\Desktop\Cookbook\Cookbook\bin\Debug\Cookbook.exe.config
+C:\Users\Abel\Desktop\Cookbook\Cookbook\bin\Debug\Cookbook.exe
+C:\Users\Abel\Desktop\Cookbook\Cookbook\bin\Debug\Cookbook.pdb
+C:\Users\Abel\Desktop\Cookbook\Cookbook\obj\Debug\Cookbook.csprojResolveAssemblyReference.cache
+C:\Users\Abel\Desktop\Cookbook\Cookbook\obj\Debug\Cookbook.frmMain.resources
+C:\Users\Abel\Desktop\Cookbook\Cookbook\obj\Debug\Cookbook.Properties.Resources.resources
+C:\Users\Abel\Desktop\Cookbook\Cookbook\obj\Debug\Cookbook.csproj.GenerateResource.Cache
+C:\Users\Abel\Desktop\Cookbook\Cookbook\obj\Debug\Cookbook.exe
+C:\Users\Abel\Desktop\Cookbook\Cookbook\obj\Debug\Cookbook.pdb
